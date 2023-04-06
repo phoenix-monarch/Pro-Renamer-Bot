@@ -49,10 +49,14 @@
 </p>
 </details>
 
-<details><summary>🔥 Deploy To railway 🔥</summary>
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/InrZvB?referralCode=V_BZ8S)
+<details><summary>🔥 Deploy To Railway 🔥</summary>
+<p>
+<br>
+<a href="https://railway.app/template/InrZvB?referralCode=V_BZ8S">
+  <img src="https://railway.app/button.svg" alt="Deploy">
+</a>
+</p>
 </details>
-
 
 
 
