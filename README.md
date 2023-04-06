@@ -49,6 +49,15 @@
 </p>
 </details>
 
+<details><summary>🔥 Deploy To railway 🔥</summary>
+<p>
+<br>                 
+<a [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/UZXC6t) >
+  <img src="https://www.railway.app/static/images/deploy/button.svg" alt="Deploy">
+</a>
+</p>
+</details>
+
 
 
 
