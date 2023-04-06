@@ -50,11 +50,7 @@
 </details>
 
 <details><summary>🔥 Deploy To railway 🔥</summary>
-<p>
-<br>                 
-<a [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/UZXC6t)
-</a>
-</p>
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/InrZvB?referralCode=V_BZ8S)
 </details>
 
 
