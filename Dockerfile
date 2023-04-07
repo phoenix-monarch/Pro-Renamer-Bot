@@ -4,7 +4,7 @@ WORKDIR /app
 
 COPY requirements.txt /app/
 
-RUN /bin/bash apt update && apt upgrade -y
+RUN /bin/bash -c /bin/bash apt update && apt upgrade -y
 RUN /bin/bash apt install git python3-pip ffmpeg -y
 
 COPY . .
